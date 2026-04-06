@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Inter');
+
+* {
+box-sizing: border-box;
+margin:0;
+padding:0;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 0;
+}
+.header-text {
+margin-bottom: 2rem;
+}
+
+.subtitle {
+    margin-top: 0.11rem;
+    margin-bottom: 1rem;
+    color:grey;
+    font-size: 1rem;
+}
+.column {
+    margin-top: 0;
+    min-width: 40rem;
+    min-height: 100vh;
+    padding: 3rem;
+    padding-top: 1.5rem;
+    
+
+    background-color: white;
+    //box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    
+}
