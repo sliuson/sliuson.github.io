@@ -11,6 +11,11 @@ var projects = [
         desc: 'use wasd and ijkl to control camera',
         
     }
+    {
+        name: 'Spring Mass Mesh',
+        repo: 'spring-mass-sim',
+        desc: 'push around with cursor'
+    },
 ]
 
 async function loadData(project){
