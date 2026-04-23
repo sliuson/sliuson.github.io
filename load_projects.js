@@ -15,6 +15,11 @@ var projects = [
         name: 'Spring Mass Mesh',
         repo: 'spring-mass-sim',
         desc: 'push around with cursor'
+    },
+    {
+        name: 'Chemotaxis Simulation',
+        repo: 'chemotaxis-sim',
+        desc: 'bacterial run-and-tumble movement'
     }
 ]
 
